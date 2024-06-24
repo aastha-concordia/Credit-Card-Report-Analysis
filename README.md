@@ -37,11 +37,14 @@ The objective is to analyze this data and provide actionable, data-driven recomm
 
 # Income Utilization & Spending Analysis
 In pursuit of illuminating critical insights into customer spending patterns and understanding the average income utilization across diverse segments, a dedicated analytical exploration has been undertaken. To facilitate a comprehensive understanding, a bespoke "Customers Spend Analysis" page has been meticulously crafted within Ms-Excel. This page serves as the epicenter for unraveling intricate details, housing a plethora of Key Performance Indicators (KPIs) and insightful charts and graphs.
-![Credit Behaviour Analysis](https://github.com/aastha-concordia/Credit-Card-Report-Analysis/assets/99286129/e0798305-e40a-445f-ab55-ac05536ab0e1)
+![Credit Analysis](https://github.com/aastha-concordia/Credit-Card-Report-Analysis/assets/99286129/9521c98a-2052-4fb5-8757-192a88873880)
+
+
 
 # Insights 
 The dataset contains 4000 customers, forming the foundation of analysis.
-![Insights](https://github.com/aastha-concordia/Credit-Card-Report-Analysis/assets/99286129/db580489-d274-4c21-a5d8-9edde400a383)
+![Insights_](https://github.com/aastha-concordia/Credit-Card-Report-Analysis/assets/99286129/59e89c3e-703e-49d8-942c-75d7f1fdf7e5)
+
 
 # Recommendation
 To improve the likelihood of credit card usage among the identified target customers (salaried employees, self-employed individuals, and freelancers), consider incorporating the following key features in the credit card:
