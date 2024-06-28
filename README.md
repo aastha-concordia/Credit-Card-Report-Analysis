@@ -20,7 +20,7 @@ The objective is to analyze this data and provide actionable, data-driven recomm
 # Problem Statment
     Demographic classification: Classify the customers based on available demography such as age group, gender, occupation etc. and provide insights based on them.
 
-    Avg income utilisation %: Find the average income utilisation % of customers (avg_spends/avg_income). This will be your key metric. 
+    Avg income utilisation %: Find the average income utilisation % of customers. 
    
     Spending Insights: Where do people spend money the most? Does it have any impact due to occupation, gender, city, age etc.? 
 
